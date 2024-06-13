@@ -1,7 +1,7 @@
 Hi, welcome to my page 🙂 
 
 
-<h3 align="left">About me:</h3>
+- <h3 align="left">About me:</h3>
 I'm Gustavo, a passionate AI & Machine Learning enthusiast & Python developer from 🇧🇷 Brazil, currently living in 🇨🇭:Switzerland.
 - 👀 I’m interested in learning/working Data Analytics and Science, as well as other IT applications.
 - 🌱 I’m currently working on projects on Kaggle to enhance my Python and Data Science skills. I'm also planning to sign up Coursera to get more courses in this field. Additionally, I’m learning German. Genau!
