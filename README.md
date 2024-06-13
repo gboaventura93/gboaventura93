@@ -1,4 +1,4 @@
-Hi, welcome to my page 🙂 
+Hi 🙂 
 
 I'm Gustavo, a passionate AI & Machine Learning enthusiast & Python developer from 🇧🇷, currently living in 🇨🇭.
 
